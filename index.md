@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
         
- <script type="text/javascript">
+<script type="text/javascript">
           (function(){
             var useriq=window._uiq=window._uiq||[];useriq.invoked&&window.console&&console.error&&console.error("Useriq snippet already exists."),useriq.invoked=!0,useriq.methods=["setSiteId","startTracker","setDoNotTrack","identify","track","group"],useriq.factory=function(e){return function(){var r=Array.prototype.slice.call(arguments);return r.unshift(e),useriq.push(r),useriq}};for(var i=0;i<useriq.methods.length;i++){var key=useriq.methods[i];useriq[key]=useriq.factory(key)} 
             // We have dynamically assigned your useriq_site_id
