@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
               account_id: account_id,
               account_name: 'Ross_Company',
               user_email: 'ross.mccurdy+kenobi@useriq.com',
-              signup_date: '1991-08-29',
+              signup_date: '2017-08-29',
             })
             useriq.startTracker()
             var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
